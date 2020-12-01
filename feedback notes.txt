@@ -1,0 +1,9 @@
+  Can you auto-populate the Employee No from an authenticated user session and does it integrate with Azure Active Directory? This would be a major enhancement.
+
+·  Is it possible to notify users (via email or otherwise) when a form is submitted?
+
+·  If so, could the employee then fill out the first page, submit it, and the person providing feedback be notified that their feedback is required?
+
+·  Can the “Period covered” be expressed as two date fields, “Period Start” and “Period End” using datepickers?--done
+
+ 
